@@ -1,0 +1,26 @@
+C:\Users\301089027\Downloads\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\301089027\Downloads\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\301089027\Downloads\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\301089027\Downloads\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\301089027\Downloads\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\301089027\Downloads\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\301089027\Downloads\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\301089027\Downloads\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\301089027\Downloads\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\301089027\Downloads\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\301089027\Downloads\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\301089027\Downloads\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\College\SEM-2\Web Technologies\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.genruntimeconfig.cache
